@@ -17,7 +17,7 @@ e aguardar as conexões de clientes.</p>
 
 <p>2) Em seguida, realizar a execução do programa
 Project_chat_Cliente.jar, responsável por realizar a conexão
-do cliente com o servidor e inserir o cliente no chat.</p><br>
+do cliente com o servidor e inserir o cliente no chat.</p>
 <ul>
 	<li><p>2.1) Ao executar o programa responsável pelo
 	Cliente, irá ser pedido um nome de Cliente para
